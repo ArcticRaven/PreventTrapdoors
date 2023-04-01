@@ -1,0 +1,7 @@
+name: PreventTrapdoors
+version: '${project.version}'
+main: dev.arcticgaming.preventtrapdoors.PreventTrapdoors
+api-version: 1.19
+depend: [WorldGuard]
+authors: [ArcticDev_]
+description: A quick trap door prevention plugin
